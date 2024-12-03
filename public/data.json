@@ -1,0 +1,257 @@
+[
+      {
+        "product_id": 1,
+        "product_title": "UltraBook Pro",
+        "product_image": "https://i.ibb.co.com/yf9Fh1G/yoga-6-13abr8-001-228x228.webp",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "A sleek, high-performance ultrabook designed for portability and power.",
+        "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "14-inch Full HD Display"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 2,
+        "product_title": "XPhone 12",
+        "product_image": "https://i.ibb.co.com/GMwq3fG/1533-41338.jpg",
+        "category": "Phones",
+        "price": 999,
+        "description": "A powerful smartphone with a cutting-edge camera and display.",
+        "Specification": ["6.5-inch OLED Display", "128GB Storage", "12MP Triple Camera", "5G Connectivity"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 3,
+        "product_title": "Smart Watch Series 6",
+        "product_image": "https://i.ibb.co.com/hVF5FLY/Redmi-Watch-3-Active-BT-Calling-Smart-Watch-1-4983.webp",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "Track your fitness, heart rate, and receive notifications directly on your wrist.",
+        "Specification": ["Always-on Retina Display", "GPS + Cellular", "Heart Rate Monitor", "Water Resistant"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 4,
+        "product_title": "FastCharge Wireless Charger",
+        "product_image": "https://i.ibb.co.com/JpN5RGS/Baseus-Digital-LED-Display-GEN2-Wireless-Charger-15-W-c-3343.webp",
+        "category": "Chargers",
+        "price": 79,
+        "description": "A fast wireless charger compatible with most smartphones and smartwatches.",
+        "Specification": ["Qi-Certified", "15W Fast Charging", "Compact Design", "LED Indicator"],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 5,
+        "product_title": "PowerBank Max 20000mAh",
+        "product_image": "https://i.ibb.co.com/FqJJ3yx/p10k-black-228x228.webp",
+        "category": "Power Banks",
+        "price": 89,
+        "description": "A high-capacity power bank capable of charging multiple devices at once.",
+        "Specification": ["20000mAh Capacity", "Dual USB Output", "LED Battery Indicator", "Fast Charging"],
+        "availability": false,
+        "rating": 4.5
+      },
+      {
+        "product_id": 6,
+        "product_title": "Gaming Laptop ZPro",
+        "product_image": "https://i.ibb.co.com/99FsLXG/ZEB-NBC-3-S-Spacegray-pic1.webp",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "A gaming powerhouse with superior graphics and speed.",
+        "Specification": ["Intel Core i9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3080", "17-inch 4K Display"],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 7,
+        "product_title": "XPhone Mini",
+        "product_image": "https://i.ibb.co.com/ZHqCQQG/apple-iphone-x-silver-image.webp",
+        "category": "Phones",
+        "price": 699,
+        "description": "A compact version of the popular XPhone with similar performance.",
+        "Specification": ["5.4-inch OLED Display", "64GB Storage", "Dual Camera", "5G Connectivity"],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 8,
+        "product_title": "Smart Watch Lite",
+        "product_image": "https://i.ibb.co.com/7bFXjyw/Xiaomi-Mi-Watch-Lite.jpg",
+        "category": "Smart Watches",
+        "price": 199,
+        "description": "A lightweight and affordable smartwatch with all the essential features.",
+        "Specification": ["Heart Rate Monitor", "GPS", "Water Resistant", "7-Day Battery"],
+        "availability": false,
+        "rating": 4.2
+      },
+      {
+        "product_id": 9,
+        "product_title": "TurboCharge Car Charger",
+        "product_image": "https://i.ibb.co.com/xY10sVs/616j-VYIk66-L-AC-UY218.jpg",
+        "category": "Chargers",
+        "price": 104,
+        "description": "A fast car charger for all your mobile devices.",
+        "Specification": ["Dual USB Ports", "18W Fast Charging", "LED Indicator", "Compact Design"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 10,
+        "product_title": "PowerBank Slim 10000mAh",
+        "product_image": "https://i.ibb.co.com/fpvDFYN/Capture.png",
+        "category": "Power Banks",
+        "price": 99,
+        "description": "A slim and portable power bank with enough capacity for a full day's charge.",
+        "Specification": ["10000mAh Capacity", "USB-C Output", "Fast Charging", "Ultra-Slim Design"],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 11,
+        "product_title": "Mac Pro 11",
+        "product_image": "https://i.ibb.co.com/cD22mGr/macbook-air-13-inch-m3-starlight-01-228x228.webp",
+        "category": "Laptops",
+        "price": 850,
+        "description": "A powerful tablet for both work and play, with a stunning display.",
+        "Specification": ["11-inch Liquid Retina Display", "256GB Storage", "12MP Camera", "Apple Pencil Support"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 12,
+        "product_title": "Foldable Phone X",
+        "product_image": "https://i.ibb.co.com/vqrt1gw/vivo-x-fold3-pro-with-ultra-slim-design-jpg.webp",
+        "category": "Phones",
+        "price": 1499,
+        "description": "A next-generation foldable phone with a dual display.",
+        "Specification": ["7.6-inch AMOLED Display", "256GB Storage", "Triple Camera", "5G Connectivity"],
+        "availability": false,
+        "rating": 4.7
+      },
+      {
+        "product_id": 13,
+        "product_title": "Fitness SmartBand",
+        "product_image": "https://i.ibb.co.com/NKThqnm/195cb1f30571335bf3d8358934f74add-jpg-200x200q80-jpg.webp",
+        "category": "Smart Watches",
+        "price": 79,
+        "description": "A fitness tracker with advanced health monitoring features.",
+        "Specification": ["Heart Rate Monitor", "Sleep Tracking", "Waterproof", "14-Day Battery"],
+        "availability": true,
+        "rating": 4.1
+      },
+      {
+        "product_id": 14,
+        "product_title": "QuickCharge Wall Adapter",
+        "product_image": "https://i.ibb.co.com/86C4kq4/S5afdfc03ef38447881839e8083e13156c-jpg-200x200q80-jpg.webp",
+        "category": "Chargers",
+        "price": 90,
+        "description": "A fast-charging wall adapter with USB-C support.",
+        "Specification": ["USB-C PD", "30W Fast Charging", "Compact Design", "Overheat Protection"],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 15,
+        "product_title": "PowerBank Ultra 30000mAh",
+        "product_image": "https://i.ibb.co.com/bND7DR5/51-Nu-Xkwv-Hl-L-AC-UY218.jpg",
+        "category": "Power Banks",
+        "price": 79,
+        "description": "A massive capacity power bank for charging laptops and phones.",
+        "Specification": ["30000mAh Capacity", "USB-C & USB-A Output", "Quick Charge 3.0", "LED Display"],
+        "availability": false,
+        "rating": 4.6
+      },
+      {
+        "product_id": 16,
+        "product_title": "Laptop Workstation X",
+        "product_image": "https://i.ibb.co.com/KD9ts40/Asus-Creator-5-1.webp",
+        "category": "Laptops",
+        "price": 2400,
+        "description": "A professional-grade desktop for high-end computing tasks.",
+        "Specification": ["Intel Xeon Processor", "64GB RAM", "2TB SSD", "NVIDIA Quadro RTX 4000"],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 17,
+        "product_title": "XPhone Pro Max",
+        "product_image": "https://i.ibb.co.com/NYHwXTJ/apple-iphone-xs-max-new1.jpg",
+        "category": "Phones",
+        "price": 1299,
+        "description": "The ultimate smartphone experience with a large display and top-tier performance.",
+        "Specification": ["6.9-inch Super Retina XDR Display", "512GB Storage", "Triple Camera System", "5G Connectivity"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 18,
+        "product_title": "Smart Watch Explorer",
+        "product_image": "https://i.ibb.co.com/FDtgxTf/6.webp",
+        "category": "Smart Watches",
+        "price": 349,
+        "description": "A rugged smartwatch designed for outdoor adventures.",
+        "Specification": ["GPS", "Altimeter", "Heart Rate Monitor", "Waterproof", "Shock Resistant"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 19,
+        "product_title": "Dual USB Wall Charger",
+        "product_image": "https://i.ibb.co.com/NnkYP2z/51-NBa-g2-Ar-L-AC-UY218.jpg",
+        "category": "Chargers",
+        "price": 93,
+        "description": "A compact wall charger with dual USB ports for fast charging.",
+        "Specification": ["Dual USB Output", "18W Fast Charging", "LED Indicator", "Overheat Protection"],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 20,
+        "product_title": "PowerBank Mini 5000mAh",
+        "product_image": "https://i.ibb.co.com/jRJJnVh/612g-Q0-J1-Er-L-AC-UY218.jpg",
+        "category": "Power Banks",
+        "price": 95,
+        "description": "A compact power bank for emergency charging on the go.",
+        "Specification": ["5000mAh Capacity", "USB-C & USB-A Output", "Quick Charge 2.0", "Ultra-Lightweight Design"],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 21,
+        "product_title": "Business Laptop Elite",
+        "product_image": "https://i.ibb.co.com/y5rkNJ4/c08473126.webp",
+        "category": "Laptops",
+        "price": 1300,
+        "description": "A premium business laptop designed for professionals.",
+        "Specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "15.6-inch Full HD Display", "Fingerprint Reader"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 22,
+        "product_title": "Lenovo IdeaPad Flex 5",
+        "product_image": "https://i.ibb.co.com/SV0NNtV/ideapad-flex-5-14alc7-08-228x228.webp",
+        "category": "Laptops",
+        "price": 1100,
+        "description": "An all-in-one desktop with a sleek design and touch display.",
+        "Specification": ["Intel Core i5", "8GB RAM", "512GB SSD", "27-inch Touch Display"],
+        "availability": false,
+        "rating": 4.5
+      },
+      {
+        "product_id": 23,
+        "product_title": "Chromebook Lite 14",
+        "product_image": "https://i.ibb.co.com/nkk4dz0/71-DSEn-IN5-PL-AC-SX679.jpg",
+        "category": "Laptops",
+        "price": 450,
+        "description": "A lightweight Chromebook perfect for web-based tasks and cloud storage.",
+        "Specification": ["Intel Celeron", "4GB RAM", "64GB Storage", "14-inch HD Display"],
+        "availability": true,
+        "rating": 4.3
+      }
+    ]
+
+  
